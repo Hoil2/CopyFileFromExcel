@@ -1,0 +1,10 @@
+C:\Users\hhhhh\Desktop\Hello World\Programming\C#\CopyFileFromExcel\CopyFileFromExcel\bin\Release\CopyFileFromExcel.exe.config
+C:\Users\hhhhh\Desktop\Hello World\Programming\C#\CopyFileFromExcel\CopyFileFromExcel\bin\Release\CopyFileFromExcel.exe
+C:\Users\hhhhh\Desktop\Hello World\Programming\C#\CopyFileFromExcel\CopyFileFromExcel\bin\Release\CopyFileFromExcel.pdb
+C:\Users\hhhhh\Desktop\Hello World\Programming\C#\CopyFileFromExcel\CopyFileFromExcel\obj\Release\CopyFileFromExcel.csprojAssemblyReference.cache
+C:\Users\hhhhh\Desktop\Hello World\Programming\C#\CopyFileFromExcel\CopyFileFromExcel\obj\Release\CopyFileFromExcel.frmMain.resources
+C:\Users\hhhhh\Desktop\Hello World\Programming\C#\CopyFileFromExcel\CopyFileFromExcel\obj\Release\CopyFileFromExcel.Properties.Resources.resources
+C:\Users\hhhhh\Desktop\Hello World\Programming\C#\CopyFileFromExcel\CopyFileFromExcel\obj\Release\CopyFileFromExcel.csproj.GenerateResource.cache
+C:\Users\hhhhh\Desktop\Hello World\Programming\C#\CopyFileFromExcel\CopyFileFromExcel\obj\Release\CopyFileFromExcel.csproj.CoreCompileInputs.cache
+C:\Users\hhhhh\Desktop\Hello World\Programming\C#\CopyFileFromExcel\CopyFileFromExcel\obj\Release\CopyFileFromExcel.exe
+C:\Users\hhhhh\Desktop\Hello World\Programming\C#\CopyFileFromExcel\CopyFileFromExcel\obj\Release\CopyFileFromExcel.pdb
